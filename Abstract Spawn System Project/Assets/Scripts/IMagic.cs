@@ -21,7 +21,7 @@ public class DeadlyGrowth : IMagic { }
 public class VineVein : IMagic { }
 public class NightWall : IMagic { }
 public class FireFlower : IMagic { }
-public class MornignRiver : IMagic { }
+public class MorningRiver : IMagic { }
 public class SandyNeedles : IMagic { }
 public class EarthlyPetrified : IMagic { }
 public class DeepRooted : IMagic { }

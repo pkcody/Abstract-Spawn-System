@@ -52,7 +52,7 @@ public class ElementalFactory : IMagicFactory
         {
             if (requirements.MagicType == 0) return new NightWall();
             if (requirements.MagicType == 1) return new FireFlower();
-            else return new MornignRiver();
+            else return new MorningRiver();
         }
         // shapeshifter
         else
